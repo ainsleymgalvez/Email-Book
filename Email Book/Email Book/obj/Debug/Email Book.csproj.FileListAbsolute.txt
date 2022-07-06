@@ -1,0 +1,23 @@
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csprojAssemblyReference.cache
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.Properties.Resources.resources
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csproj.GenerateResource.cache
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csproj.CoreCompileInputs.cache
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.exe.config
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.exe
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.pdb
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.exe
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.pdb
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.detailsDisplayForm.resources
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.ContactList.resources
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\bin\Debug\Email Book.exe.config
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\bin\Debug\Email Book.exe
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\bin\Debug\Email Book.pdb
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.csproj.AssemblyReference.cache
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.csproj.SuggestedBindingRedirects.cache
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email_Book.ContactList.resources
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email_Book.detailsDisplayForm.resources
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email_Book.Properties.Resources.resources
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.csproj.GenerateResource.cache
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.csproj.CoreCompileInputs.cache
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.exe
+C:\Users\agalvez\Downloads\JUNIOR\JUNIOR\SPRING 2019\OMIS 449\Chapter 9\Email Book\Email Book\obj\Debug\Email Book.pdb
